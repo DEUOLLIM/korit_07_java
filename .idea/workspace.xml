@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9cc1562-24b8-4cdd-842b-307470c36bb9" name="변경" comment="" />
+    <list default="true" id="a9cc1562-24b8-4cdd-842b-307470c36bb9" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch01_starting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch02_variable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch03_operator/Operator01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/20250729.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/20250729.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +21,19 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="30Wt8mZWbbaIpvXZqGrcKCl5mLY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +45,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/donghyeon/korit_07_java/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "preferences.editor"
   }
