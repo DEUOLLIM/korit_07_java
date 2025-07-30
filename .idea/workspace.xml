@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cc1562-24b8-4cdd-842b-307470c36bb9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch03_operator/Operator02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch04_scanner/scanner01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250730.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch05_conversion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/condition07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch02_variable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch02_variable/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +50,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.korit_07_java [:ch04_scanner.Scanner01.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch05_conversion.Main.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition04.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition05.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition06.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition08.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition10.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch06_condition.Condition11.main()].executor": "Run",
     "Gradle.korit_07_java [:org.example.Main.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/donghyeon/korit_07_java/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "preferences.editor"
@@ -63,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scanner01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04_scanner.Scanner01" />
+      <module name="korit_07_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04_scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Scanner01" />
         <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
@@ -86,6 +119,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch06_condition/Condition06.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
