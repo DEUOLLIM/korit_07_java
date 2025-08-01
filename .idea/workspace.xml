@@ -5,19 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cc1562-24b8-4cdd-842b-307470c36bb9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_log/20250730.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05_conversion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/Condition11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch06_condition/condition07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/20250801.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ClassAMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ConstructorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/StudentMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +69,11 @@
     "Gradle.korit_07_java [:ch06_condition.Condition08.main()].executor": "Run",
     "Gradle.korit_07_java [:ch06_condition.Condition10.main()].executor": "Run",
     "Gradle.korit_07_java [:ch06_condition.Condition11.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch08_methods.Overloading.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch08_methods.ScoreCalc02.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch09_classes.ClassAMain.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch09_classes.ConstructorMain.main()].executor": "Run",
+    "Gradle.korit_07_java [:ch09_classes.students.StudentMain.main()].executor": "Run",
     "Gradle.korit_07_java [:org.example.Main.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,10 +81,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/donghyeon/korit_07_java/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.StudentMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="korit_07_java.main" />
@@ -95,8 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09_classes.students.StudentMain" />
+      <module name="korit_07_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09_classes.students.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StudentMain" />
         <item itemvalue="애플리케이션.Scanner01" />
         <item itemvalue="애플리케이션.Main" />
       </list>
