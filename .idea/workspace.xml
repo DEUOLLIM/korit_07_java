@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cc1562-24b8-4cdd-842b-307470c36bb9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_log/20250801.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07_loop/loop08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Method04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08_methods/ScoreCalc03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ClassAMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/ConstructorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09_classes/students/StudentMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/20250801.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/20250801.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +131,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ch06_condition/Condition06.java</url>
           <line>22</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch09_classes/students/Student.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

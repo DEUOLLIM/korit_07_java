@@ -5,7 +5,7 @@ public class Student2 {
     String name;
     double score;
 
-    //default로  생성 됐을때느 안내문구를
+    //default로  생성 됐을때 안내문구를
     public Student2(int studentCode) {
         this.studentCode = studentCode;
         System.out.println();

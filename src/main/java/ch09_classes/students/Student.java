@@ -88,10 +88,3 @@ public class Student {
         System.out.println("점수 : " + score);
     }
 }
-
-# 생성자 관련 정리
-//1.NoArgsConstructor   -    기본생성자
-//2.RequiredArgsConstructor   -  매개변수 생성자
-//3.AllArgsConstructor   -   클래스의 전체 필드를 전부 요구하는 매개변수 생성
-
-//method구현 관련 정리 / 클래스 개념 - 구성요소 / 생성자 관련부분을 정리하시면 됩니다.
