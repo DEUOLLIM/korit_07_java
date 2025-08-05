@@ -25,16 +25,29 @@ import java.util.Scanner;
 public class Condition08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("연도를 입력하세요");
-        int year = scanner.nextInt();
-        String leapYear = "";
+//        System.out.println("연도를 입력하세요");
+//        int year = scanner.nextInt();
+//        String leapYear = "";
+//
+//        if (year % 4 == 0 && year % 100 != 0 && year % 400 == 0){
+//            leapYear = "윤년입니다.";
+//        } else if (year % 4 !=0 && year % 100 != 0 && year % 400 != 0)
+//            leapYear = "운년이 아닙니다.";
+//
+//        System.out.println(year + "년은" + leapYear);
 
-        if (year % 4 == 0 && year % 100 != 0 && year % 400 == 0){
-            leapYear = "윤년입니다.";
-        } else if (year % 4 !=0 && year % 100 != 0 && year % 400 != 0)
-            leapYear = "운년이 아닙니다.";
+        System.out.print("임의의 숫자를 입력하세요 >>> ");
+        int randomNum = scanner.nextInt();
 
-        System.out.println(year + "년은" + leapYear);
+        // 실행 예
+        // 임의의 숫자를 입력하세요 >>> 789
+        // 789는 홀수입니다.
+        // 임의의 숫자를 입력하세요 >>> 122
+        // 122는 짝수입니다.
+
+
+
+
 
     }
 }
